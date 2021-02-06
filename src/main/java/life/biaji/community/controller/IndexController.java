@@ -1,4 +1,4 @@
-package life.biaji.community.Controller;
+package life.biaji.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
